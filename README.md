@@ -5,14 +5,9 @@
 
 **1. [심리 성향 테스트를 통해 국가 선거 투표 여부 예측(21.01)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.01_Psychological_Tendency_Data_Analysis)**
 >월간 데이콘 심리 성향 예측 AI 경진대회 자료 이용([Dacon](https://dacon.io/competitions/official/235647/overview/description))
- - 
- - 
-\
 
 **2. [코로나 대응 정책의 실효성 분석(21.03)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.03_Analysis_Of_The_Effectiveness_Of_COVID19)**
 >코로나 데이터 시각화 AI 경진대회 자료 이용([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset),[Dacon](https://dacon.io/competitions/official/235590/overview/description))
- - 
-\
 
 **3. [따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
 >[서울시 따릉이 대여량 예측 경진대회 자료 이용](https://dacon.io/competitions/open/235576/data)
@@ -26,7 +21,6 @@
    1. 평일 출퇴근, 등하교 시간대 전후로 따릉이 점검시간 확보(주요 시간은 피하기)
    2. 주말 낮 시간에는 다중이용시설 근처에 따릉이 배치 늘리기
    3. 온도에 높아짐에 따라 따릉이 이용객의 수가 증가하므로 여름에는 사설업체와 협력하여 자전거 추가 배치
-
 
 **4. [딥러닝 및 이미지AI 스터디(22.02)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/22.02_Image-Recognition_AI)**
  - 이미지 전처리(float, grayscale, resize, augmentation)
