@@ -3,6 +3,7 @@
 ### 프로젝트 자료 모음
 \
 **1. 심리 성향 테스트를 통해 국가 선거 투표 여부 예측**
+>코로나 데이터 시각화 AI 경진대회 자료 이용([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset),[Dacon](https://dacon.io/competitions/official/235590/overview/description))
  - 데이터 이상값 판단 (ex : pm2.5 = 90에 가까운 값은 논리적으로 발생할 수 있는 값이라 판단하여 제거X)
  - 그룹별 통계량 값을 이용한 결측치 대체
  - GridSearch 하이퍼파라미터 튜닝
