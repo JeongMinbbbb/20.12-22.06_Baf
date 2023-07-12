@@ -6,8 +6,18 @@
 **1. [심리 성향 테스트를 통해 국가 선거 투표 여부 예측(21.01)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.01_Psychological_Tendency_Data_Analysis)**
 >월간 데이콘 심리 성향 예측 AI 경진대회 자료 이용([Dacon](https://dacon.io/competitions/official/235647/overview/description))
 
+
 **2. [코로나 대응 정책의 실효성 분석(21.03)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.03_Analysis_Of_The_Effectiveness_Of_COVID19)**
 >코로나 데이터 시각화 AI 경진대회 자료 이용([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset),[Dacon](https://dacon.io/competitions/official/235590/overview/description))
+ - 코로나 대응 정책의 실효성에 대한 의구심을 갖는 비판이 많음
+ - 계속해서 새롭게 발생하는 팬데믹 현상에 대한 대책 피드백이 필요
+ - 제한명령/사회적거리두기/마스크/기술/입국 정책으로 나누어서 실효성을 평가
+ - 시계열 분석 및 시각화 활용
+ - 세부적으로 특정 집단이나 상황에 대한 정책의 보완점을 제안함
+  ex1) 지방자치단체 행정명령은 고연령층에게 효과적
+  ex2) 4-5월 모든 시도국립공원과 하천, 유원지 폐쇄와 같은 기회차단 정책이 필요
+  ex3) 온라인 예배 의무화, 운영자제 권고와 같은 정책 유지 필수 등
+  ex4) 고위험 국가에 대한 더 엄한 제한 정책이 필요
 
 **3. [따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
 >[서울시 따릉이 대여량 예측 경진대회 자료 이용](https://dacon.io/competitions/open/235576/data)
