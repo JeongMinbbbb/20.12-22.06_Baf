@@ -7,6 +7,7 @@
 ***
 ## 주제 : 따릉이 대여 수 예측(21.09)
 >서울시 따릉이 대여량 예측 경진대회 자료([Dacon](https://dacon.io/competitions/open/235576/data)) 이용
+
 > #R #Python
 
 ## 분석 목적
