@@ -5,13 +5,13 @@
 ## 프로젝트 자료 모음
 
 **1. [심리 성향 테스트를 통해 국가 선거 투표 여부 예측(21.01)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.01_Psychological_Tendency_Data_Analysis)**
->[월간 데이콘 심리 성향 예측 AI 경진대회](https://dacon.io/competitions/official/235647/overview/description)
+>월간 데이콘 심리 성향 예측 AI 경진대회
 
 **2. [코로나 대응 정책의 실효성 분석(21.03)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.03_Analysis_Of_The_Effectiveness_Of_COVID19)**
->[코로나 데이터 시각화 AI 경진대회](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
+>코로나 데이터 시각화 AI 경진대회
 
 **3. [따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
->[서울시 따릉이 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/data)
+>서울시 따릉이 대여량 예측 경진대회
  - 2017년 4,5월 서울시 마포구의 날짜, 시간별 기상상황과 따릉이 대여 수로 6월의 따릉이 대여 수를 예측 
  - 기상 외부데이터를 활용하여 데이터의 시점에 대응시킨 뒤, 기상 관련 정보(기온, 풍속, 시정, 습도)의 결측치를 채워넣음
   -> 테스트 데이터(6월) 내에 독립변수가 전부 주어지지 않은 경우도 예측가능하도록 만듦
