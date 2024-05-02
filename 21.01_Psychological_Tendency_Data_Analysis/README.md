@@ -7,6 +7,7 @@
 ## 주제 : 심리 성향 테스트를 통해 국가 선거 투표 여부 예측(21.01)
 >[월간 데이콘 심리 성향 예측 AI 경진대회](https://dacon.io/competitions/official/235647/overview/description)
 
+>#Python #R
 
 ### **사용 데이터**
 - 종교, 성별, 교육수준 등의 인적 사항과 마키아벨리즘 설문 정보, 지난해 선거 투표 여부로 구성
