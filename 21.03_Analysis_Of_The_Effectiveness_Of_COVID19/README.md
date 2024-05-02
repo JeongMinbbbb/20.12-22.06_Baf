@@ -4,7 +4,7 @@
 - 비어플 프로젝트 2회차
 
 **2. [코로나 대응 정책의 실효성 분석(21.03)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.03_Analysis_Of_The_Effectiveness_Of_COVID19)**
->코로나 데이터 시각화 AI 경진대회 자료 이용([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset),[Dacon](https://dacon.io/competitions/official/235590/overview/description))
+>코로나 데이터 시각화 AI 경진대회 자료([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset) 또는 [Dacon](https://dacon.io/competitions/official/235590/overview/description)) 이용
 
 ### 분석 목적
 - 코로나19 위기 대응 정책의 실효성에 대한 비판이 사회 전반에 많으며, 보완을 하기 위한 평가가 필요
