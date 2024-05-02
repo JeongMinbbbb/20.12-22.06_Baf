@@ -28,6 +28,10 @@
     2. 파생변수 생성
         - 일자별 따릉이 대여수 패턴을 비교함으로써 주말/평일 여부를 파악하고 변수 생성
         - 대부분의 수치가 0인 강수량 변수를 수치형 변수에서 이진 변수 형태로 변경
+    <p align="middle">
+      <img src="https://github.com/JeongMinbbbb/20.12-22.06_Baf/assets/130365764/f1621540-a24a-453f-988c-9787d1063928" alt="image">
+    </p>
+
 
 2. **모델링**
     - RandomForest, XGBoost, SVM, LGBM 중 성능이 높고 해석이 평이했던 RandomForest 모델 선택
