@@ -4,7 +4,7 @@
 - 비어플 프로젝트 3회차
 
 **3. [따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
->[서울시 따릉이 대여량 예측 경진대회 자료 이용](https://dacon.io/competitions/open/235576/data)
+>서울시 따릉이 대여량 예측 경진대회 자료([Dacon](https://dacon.io/competitions/open/235576/data)) 이용
  - 2017년 4,5월 서울시 마포구의 날짜, 시간별 기상상황과 따릉이 대여 수로 6월의 따릉이 대여 수를 예측 
  - 기상 외부데이터를 활용하여 데이터의 시점에 대응시킨 뒤, 기상 관련 정보(기온, 풍속, 시정, 습도)의 결측치를 채워넣음
   -> 테스트 데이터(6월) 내에 독립변수가 전부 주어지지 않은 경우도 예측가능하도록 만듦
