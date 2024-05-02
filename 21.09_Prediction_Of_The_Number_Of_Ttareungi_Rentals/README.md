@@ -3,7 +3,8 @@
 - 발표 pdf 파일 확인 가능
 - 비어플 프로젝트 3회차
 
-**[따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
+***
+## 주제 : 따릉이 대여 수 예측(21.09)
 >서울시 따릉이 대여량 예측 경진대회 자료([Dacon](https://dacon.io/competitions/open/235576/data)) 이용
 
 ### 분석 목적
