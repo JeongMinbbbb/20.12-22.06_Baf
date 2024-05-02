@@ -9,13 +9,17 @@
 >월간 데이콘 심리 성향 예측 AI 경진대회
 
 
+
 **2. [코로나 대응 정책의 실효성 분석(21.03)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.03_Analysis_Of_The_Effectiveness_Of_COVID19)**
 >코로나 데이터 시각화 AI 경진대회
+
 
 
 **3. [따릉이 대여 수 예측(21.09)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/21.09_Prediction_Of_The_Number_Of_Ttareungi_Rentals)**
 >서울시 따릉이 대여량 예측 경진대회
 
 
+
 **4. [딥러닝 및 이미지AI 스터디(22.02)](https://github.com/JeongMinbbbb/20.12-22.06_Baf/tree/main/22.02_Image-Recognition_AI)**
  
+
