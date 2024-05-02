@@ -6,6 +6,8 @@
 ## 주제 : 코로나 대응 정책의 실효성 분석(21.03)
 >코로나 데이터 시각화 AI 경진대회 자료([Kaggle](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset) 또는 [Dacon](https://dacon.io/competitions/official/235590/overview/description)) 이용
 
+>#Python #R
+
 ## 분석 목적
 - 코로나19 위기 대응 정책의 실효성에 대한 비판이 사회 전반에 많으며, 보완을 하기 위한 평가가 필요
 - 새롭게 변질되고 확장되는 팬데믹 현상에 대한 대책을 데이터 중심으로 철저하게 마련해야 함
