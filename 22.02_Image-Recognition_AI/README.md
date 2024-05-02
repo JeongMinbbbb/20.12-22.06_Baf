@@ -4,7 +4,7 @@
 - 비어플 팀스터디 
 
 ***
-##**딥러닝 및 이미지AI 스터디(22.02)**
+## **딥러닝 및 이미지AI 스터디(22.02)**
     - 이미지 전처리(float, grayscale, resize, augmentation)
     - Neural Network 종류(ANN, DNN, CNN)
     - CNN 알고리즘 개념(Convolution, filter, kernel, pooing layer 등)
